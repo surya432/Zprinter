@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Zprinter.iml" filepath="$PROJECT_DIR$/Zprinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/Zprinter_android.iml" filepath="$PROJECT_DIR$/android/Zprinter_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/Zprinter_example_android.iml" filepath="$PROJECT_DIR$/example/android/Zprinter_example_android.iml" />
+    </modules>
+  </component>
+</project>
